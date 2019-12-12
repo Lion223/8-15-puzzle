@@ -7,7 +7,7 @@ Features:
 - Solvability indicator
 - Algorithms: BFS, DFS, A*
 - Metrics: Displacement metric, Euclidean distance, Manhattan metric, Chebyshev distance
-- Automatic of step-by-step execution
+- Automatic or step-by-step execution
 - Path tracing
 - Detailed statistics
 - Graph state representation 
